@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "cibulskytte",
+      "password": "roberta123",
+      "email": "cibulskytte@gmail.com"
+    },
+    {
+      "username": "robe",
+      "email": "roberta.cibulskyte@codeacademylt.onmicrosoft.com",
+      "password": "kingas123",
+      "confirmPassword": "kingas123",
+      "id": 2
+    },
+    {
+      "username": "vaida",
+      "email": "vaidataskune@gmail.com",
+      "password": "asvaida123",
+      "confirmPassword": "asvaida123",
+      "id": 3
+    },
+    {
+      "username": "vaida",
+      "email": "vaidataskune@gmail.com",
+      "password": "asvaida123",
+      "confirmPassword": "asvaida123",
+      "id": 4
+    },
+    {
+      "username": "testas1",
+      "email": "testas@gmail.com",
+      "password": "testas123",
+      "confirmPassword": "testas123",
+      "id": 5
+    },
+    {
+      "username": "test3",
+      "email": "test3@gmail.com",
+      "password": "roberta123",
+      "confirmPassword": "roberta123",
+      "id": 6
+    },
+    {
+      "username": "testas",
+      "email": "testas123@gmail.com",
+      "password": "testastestas123",
+      "confirmPassword": "testastestas123",
+      "id": 7
+    },
+    {
+      "username": "testas",
+      "email": "test@gmail.com",
+      "password": "12345678",
+      "confirmPassword": "12345678",
+      "id": 8
+    }
+  ]
+}

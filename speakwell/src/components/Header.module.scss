@@ -1,0 +1,31 @@
+
+
+.Header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+  
+    .leftSide {
+      text-align: left; 
+
+      img {
+        height: 100px; 
+        width: auto; 
+      }
+    }
+  
+    .rightSide {
+      display: flex;
+      gap: 30px;
+  
+      .logo {
+        margin-left: auto; 
+      }
+  
+      a {
+        text-decoration: none;
+        color: black;
+      }
+    }
+  }
+  

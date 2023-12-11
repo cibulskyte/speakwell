@@ -1,0 +1,56 @@
+
+
+.cardContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.programCard {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  width: 300px;
+  text-align: left;
+
+  h3 {
+    font-size: 1.5rem;
+    color: #007bff;
+  }
+
+  p {
+    font-size: 1rem;
+    color: #333;
+  }
+
+  .button-section {
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+
+    Button {
+      flex: 1;
+
+      &:first-child {
+        margin-right: 10px;
+      }
+    }
+  }
+}
+
+Button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: background-color 0.3s ease-in-out;
+
+  &:hover {
+    background-color: #0056b3;
+  }
+}
